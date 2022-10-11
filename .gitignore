@@ -1,9 +1,2 @@
 package-lock.json
 package.json 
-scss
-style.scss
-node_modules
- node_modules/
- package-lock.json
- package.json
- scss/
